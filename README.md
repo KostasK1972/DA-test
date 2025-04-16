@@ -1,5 +1,5 @@
 # DA-test
-Test in clustering
+Test in repository
 *a
 *b
 *c
