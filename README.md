@@ -1,4 +1,4 @@
-# DA-test
+# Example of README.md
 Test in repository
 *a
 *b
